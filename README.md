@@ -7,3 +7,6 @@ Projeto realizado como proposta da FIAP para nos avaliar semestralmente. Tivemos
 ☕️RM85316 - Antonio Carlos Alves Guimarães Filho
 ☕️RM84596 - João Victor Marks de Farias Delgado
 ☕️RM85490 - Luís Fellipe Menedin Oliveira Balestrero
+
+☕️Link do vídeo rodando projeto:
+https://youtu.be/-88sE-K17g8
